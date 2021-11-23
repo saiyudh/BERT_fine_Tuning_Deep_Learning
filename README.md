@@ -57,3 +57,8 @@ Yes, weights of encoder are finetuned while pretraining.
 - Pretrain the entire architecture where transformer weights would be tuned very finely (much smaller than pretraining) and also classifier.
 
 - Test on our random data
+
+
+#Acknoledgements
+OVGU teamwork students
+
