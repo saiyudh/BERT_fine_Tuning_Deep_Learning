@@ -59,6 +59,6 @@ Yes, weights of encoder are finetuned while pretraining.
 - Test on our random data
 
 
-#Acknoledgements
+# Acknoledgements
 OVGU teamwork students
 
